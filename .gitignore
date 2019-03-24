@@ -7,7 +7,7 @@ __pycache__/
 .ipynb_checkpoints
 *.bat
 config.py
-./data
+data/*
 
 # C extensions
 *.so
